@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cognitive-augmentation/static/css/main.b5a7861d.css",
+    "main.js": "/cognitive-augmentation/static/js/main.4f5702b5.js",
+    "static/js/453.34836236.chunk.js": "/cognitive-augmentation/static/js/453.34836236.chunk.js",
+    "index.html": "/cognitive-augmentation/index.html",
+    "main.b5a7861d.css.map": "/cognitive-augmentation/static/css/main.b5a7861d.css.map",
+    "main.4f5702b5.js.map": "/cognitive-augmentation/static/js/main.4f5702b5.js.map",
+    "453.34836236.chunk.js.map": "/cognitive-augmentation/static/js/453.34836236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a7861d.css",
+    "static/js/main.4f5702b5.js"
+  ]
+}
